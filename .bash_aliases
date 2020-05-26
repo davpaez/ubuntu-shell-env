@@ -7,5 +7,5 @@ alias l='ls -CF'
 
 # some more aliases
 alias c='clear'
-alias do='docker'
+alias dk='docker'
 alias doco='docker-compose'
